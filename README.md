@@ -1,6 +1,6 @@
 # Lychee Bot - Group 36 EE106A Final Project
 
-[Link](https://lychee-bot.github.io/project/)
+lychee-bot.xyz
 
 ## Table of Contents
 1. Overview and motivation
